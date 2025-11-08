@@ -1,0 +1,40 @@
+Dissipative-higgs-repo/
+├── README.md
+├── requirements.txt
+├── main_script.py
+├── generate_figures.py
+├── generate_tables.py
+├── run_mcmc_analysis.py
+├── keywords.py
+├── data/
+│   ├── Hz_data.csv
+│   ├── SN_data.csv
+│   ├── Planck_data.csv
+│   ├── hierarchy_data.csv
+│   ├── baryogenesis_data.csv
+│   ├── parameter_data.csv
+│   ├── lhc_data.csv
+│   ├── growth_data.csv
+│   ├── hubble_data.csv
+│   ├── supernova_data.csv
+│   ├── lhc_couplings
+│   └── lhc_cross_sections
+├── figures/
+│   ├── figure1_cosmology.pdf
+│   ├── figure2_hierarchy.pdf
+│   ├── figure3_baryogenesis.pdf
+│   ├── figure4_parameters.pdf
+│   ├── figure5_topology.pdf
+│   ├── figure6_lhc.pdf
+│   └── figure7_growth.pdf
+├── tables/
+│   ├── table_parameters.tex
+│   └── table_bayesian.tex
+├── latex/
+│   ├── prd_article.tex
+│   └── references.bib
+└── scripts/
+    ├── cosmology_functions.py
+    ├── mcmc_functions.py
+    ├── physics_functions.py
+    └── analysis_script

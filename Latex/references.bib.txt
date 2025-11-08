@@ -1,0 +1,120 @@
+@article{Prigogine1977,
+  title={Self-organization in nonequilibrium systems: From dissipative structures to order through fluctuations},
+  author={Prigogine, I. and Nicolis, G.},
+  journal={Wiley},
+  year={1977}
+}
+
+@article{Mitchell1961,
+  title={Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism},
+  author={Mitchell, P.},
+  journal={Nature},
+  volume={191},
+  pages={144--148},
+  year={1961}
+}
+
+@book{Connes1994,
+  title={Noncommutative geometry},
+  author={Connes, A.},
+  year={1994},
+  publisher={Academic Press}
+}
+
+@article{Planck2018,
+  author={Planck Collaboration},
+  title={Planck 2018 results. {VI}. Cosmological parameters},
+  journal={Astron. Astrophys.},
+  volume={641},
+  pages={A6},
+  year={2020}
+}
+
+@article{Weinberg1989,
+  title={The cosmological constant problem},
+  author={Weinberg, S.},
+  journal={Rev. Mod. Phys.},
+  volume={61},
+  pages={1--23},
+  year={1989}
+}
+
+@article{Bertone2005,
+  title={Particle dark matter: evidence, candidates and constraints},
+  author={Bertone, G. and Hooper, D. and Silk, J.},
+  journal={Phys. Rept.},
+  volume={405},
+  pages={279--390},
+  year={2005}
+}
+
+@article{Peebles2003,
+  title={The cosmological constant and dark energy},
+  author={Peebles, P. J. E. and Ratra, B.},
+  journal={Rev. Mod. Phys.},
+  volume={75},
+  pages={559--606},
+  year={2003}
+}
+
+@article{Higgs1964,
+  title={Broken symmetries and the masses of gauge bosons},
+  author={Higgs, P. W.},
+  journal={Phys. Rev. Lett.},
+  volume={13},
+  pages={508--509},
+  year={1964}
+}
+
+@article{Riess2019,
+  title={Large Magellanic Cloud Cepheid Standards Provide a 1\% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics beyond $\Lambda$CDM},
+  author={Riess, A. G. and others},
+  journal={Astrophys. J.},
+  volume={876},
+  pages={85},
+  year={2019}
+}
+
+@article{DESI2022,
+  title={Cosmology intertwined: A review of the particle physics, astrophysics, and cosmology associated with the cosmological tensions and anomalies},
+  author={Abdalla, E. and others},
+  journal={J. High Energ. Astrophys.},
+  volume={34},
+  pages={49},
+  year={2022}
+}
+
+@article{KiDS2021,
+  title={{KiDS-1000 Cosmology: Multi-probe weak gravitational lensing and spectroscopic galaxy clustering constraints}},
+  author={Heymans, C. and others},
+  journal={Astron. Astrophys.},
+  volume={646},
+  pages={A140},
+  year={2021}
+}
+
+@article{Pantheon2018,
+  title={The Complete Light-curve Sample of Spectroscopically Confirmed SNe Ia from Pan-STARRS1},
+  author={Scolnic, D. M. and others},
+  journal={Astrophys. J.},
+  volume={859},
+  pages={101},
+  year={2018}
+}
+
+@article{emcee2013,
+  title={emcee: The MCMC Hammer},
+  author={Foreman-Mackey, D. and Hogg, D. W. and Lang, D. and Goodman, J.},
+  journal={Astrophysics Source Code Library},
+  volume={record ascl:1303.002},
+  year={2013}
+}
+
+@article{skilling2006,
+  title={Nested sampling for general Bayesian computation},
+  author={Skilling, J.},
+  journal={Bayesian Analysis},
+  volume={1},
+  pages={833--859},
+  year={2006}
+}

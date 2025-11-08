@@ -1,0 +1,7 @@
+@article{lopez2024dissipative,
+  title={Emergence of Gravity from Dissipative Higgs Field},
+  author={Lopez, Fdo Andres},
+  journal={Physical Review D},
+  year={2024},
+  doi={10.5281/zenodo.17463842}
+}

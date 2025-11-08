@@ -1,0 +1,4 @@
+parameter,value,error
+H0,67.4,0.5
+Omega_m,0.315,0.007
+sigma8,0.811,0.006
